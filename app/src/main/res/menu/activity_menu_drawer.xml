@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+
+        <item
+            android:id="@+id/kafeler"
+            android:icon="@drawable/kafeico"
+            android:title="Kafeler" />
+        <item
+            android:id="@+id/restaurant"
+            android:icon="@drawable/restaurantico"
+            android:title="Restaurantlar" />
+
+        <item
+            android:id="@+id/konaklama"
+            android:icon="@drawable/konaklamaico"
+            android:title="Konaklama" />
+
+
+        <item
+            android:id="@+id/hastane"
+            android:icon="@drawable/hastaneico"
+            android:title="Hastane" />
+
+        <item
+            android:id="@+id/muzeler"
+            android:icon="@drawable/muzeico"
+            android:title="Müzeler" />
+
+        <item
+            android:id="@+id/otopark"
+            android:icon="@drawable/parkico"
+            android:title="Otoparklar" />
+
+
+        <item
+            android:id="@+id/otobusduraklari"
+            android:icon="@drawable/otobusico"
+            android:title="Otobüs Durakları" />
+
+
+    </group>
+
+    <item
+        android:icon="@drawable/aramaico"
+        android:title="Yerleri Ara">
+        <menu>
+            <item
+                android:id="@+id/arama"
+                android:icon="@drawable/aramaico"
+                android:title="Arama" />
+        </menu>
+    </item>
+
+</menu>

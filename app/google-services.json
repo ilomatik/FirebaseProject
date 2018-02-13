@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "352515431855",
+    "firebase_url": "https://sehirrehberidb.firebaseio.com",
+    "project_id": "sehirrehberidb",
+    "storage_bucket": "sehirrehberidb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352515431855:android:1f9408af1eec6a60",
+        "android_client_info": {
+          "package_name": "com.example.yucel.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352515431855-5v71k0cva4e40it664gu9fb5kjtc429t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yucel.firebaseproject",
+            "certificate_hash": "8f581ef8d3147d0623ec614cf05acc401960f440"
+          }
+        },
+        {
+          "client_id": "352515431855-50p6s8u5dcui3skjcl3i9kslto72lnbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGP7zRzMpxoIZLX7yLzwF3C8IZSjMfnvI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352515431855-50p6s8u5dcui3skjcl3i9kslto72lnbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
